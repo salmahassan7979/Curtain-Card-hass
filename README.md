@@ -1,11 +1,11 @@
 # Curtain card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
-[![buymeacoffee_badge](https://img.shields.io/badge/Donate-Buymeacoffee-orange?style=for-the-badge)](https://www.buymeacoffee.com/Deejayfool)
+
 
 This card allows to open, close or set a curtain to the opening rate you want.
 
-![curtain card](https://raw.githubusercontent.com/Deejayfool/hass-shutter-card/master/images/shutter-card.gif)
+![curtain card](https://github.com/salmahassan7979/Curtain-Card-hass/blob/main/curtain-card.gif)
 
 ## Configuration
 
